@@ -34,3 +34,10 @@ This workflow checks changes, stages them, reviews them, records a commit, and u
 Conclusion
 
 Git helps developers maintain a history of their work and manage changes in a structured way.
+
+## Benefits of Git
+
+- Tracks changes to project files.
+- Maintains a history of commits.
+- Supports separate feature branches.
+- Helps developers collaborate on projects.
