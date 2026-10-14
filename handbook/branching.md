@@ -6,9 +6,9 @@ A branch is an independent line of development in a Git repository. It allows de
 
 Why Use Branches?
 
-- Develop new features separately.
-- Test changes before merging.
-- Keep the main branch stable.
+- They help us to develop new features separately.
+- They test changes before merging.
+- Can keep the main branch stable.
 - Allow multiple developers to work in parallel.
 
 Create a Feature Branch
@@ -49,6 +49,3 @@ git merge feature/new-documentation
 
 In collaborative projects, changes should normally be reviewed through a pull request before merging.
 
-Conclusion
-
-Branches make development more organised and reduce the risk of unreviewed changes affecting the main project.
